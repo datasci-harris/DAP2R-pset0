@@ -5,7 +5,7 @@ We require you to submit problem set assignments to Gradescope through GitHub. T
 
 **1.**	_Link your GitHub account to Gradescope_: In order to use GitHub to submit your assignments, you first need to link your GitHub account on Gradescope. To do so, on the Gradescope homepage (i.e. where you can see all of your current and past courses), select “Account” > “Edit Account” > “Link a GitHub Account” and follow the instructions there. Note that you do not need to do this step if under “Linked Accounts” you already see the GitHub account you are using for this class. Thus, you only need to do this action once at the beginning of the term.
 
-**2.**	**(You are here!)** _Copy template repo_:  When a problem set is released, there will be a link posted under the “Modules” section of the Canvas website. This link will only be active before the problem set deadline.
+**2.**	**(You are here!)** _Fork template repo_:  When a problem set is released, there will be a link posted under the “Modules” section of the Canvas website. This link will only be active before the problem set deadline. 
 
 **3.**	_Push your changes to GitHub_: While completing the assignment, using GitHub desktop, push your changes to your GitHub repository regularly. Before making a submission, it is encouraged to double-check that the latest version of your code is displayed in your repository by looking it up on a browser.
 
