@@ -1,5 +1,5 @@
 # DAP2R-pset0
-This is a template for a problem set in PPHA 30536, Data and Programming in R 2. You can use this to practice copying a template repo and submitting through Gradescope and Github. Current version: winter 2024.
+This is a template for a problem set in PPHA 30536, Data and Programming in R 2. You can use this to practice copying a template repo and submitting through Gradescope and Github. Current version: fall 2024.
 
 We require you to submit problem set assignments to Gradescope through GitHub. To do so, we outlined the few steps you will need to do below. Since you have an unlimited number of attempts, please make a test submission way ahead of the deadline of the first assignment.
 
